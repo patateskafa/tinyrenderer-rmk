@@ -1,5 +1,5 @@
 SYSCONF_LINK = g++
-CPPFLAGS     =
+CPPFLAGS     = -g # for debugging
 LDFLAGS      =
 LIBS         = -lm
 
