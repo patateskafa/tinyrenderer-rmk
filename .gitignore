@@ -55,5 +55,4 @@ lib/*
 bin/*
 test/test_runner
 
-*.tga
 main
