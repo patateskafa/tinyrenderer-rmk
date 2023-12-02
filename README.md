@@ -1,3 +1,4 @@
+kudos -> https://github.com/ssloy/tinyrenderer
 
 ## run run run
 ```sh
